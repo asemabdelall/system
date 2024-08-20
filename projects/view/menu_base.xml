@@ -1,0 +1,4 @@
+<odoo>
+    <menuitem id="projects_root_menu" name="المشاريع و العقود" />
+    <menuitem id="properties_menu" name="العقود" parent="projects_root_menu" />
+</odoo>
